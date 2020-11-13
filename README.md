@@ -1,3 +1,3 @@
 # Tutorme
-Learning coding
-walking through with bootstrap
+Learning coding and
+walking through with bootstrap to make it responsive
